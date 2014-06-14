@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+from nextage_hardware_service import node
+
+if __name__ == '__main__':
+    node.main()
